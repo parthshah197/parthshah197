@@ -17,9 +17,9 @@ I love solving problems, so if you need help with a business/tech issue, please 
 
 | Category | Tools & Technologies |
 |----------|----------------------|
-| Programming & Libraries| Python, SQL, R, Stata, Scikit-learn, PyTorch |
-| Machine Learning | Regression, XGBoost, Random Forest, Clustering, PCA, NLP, Transformers, LLMs, Multimodal Deep Learning |
-| Statistical Modeling| A/B testing, Hypothesis testing, Econometrics & Time Series Analysis |
+| Programming | Python, SQL, R, Stata, Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn |
+| Machine Learning | Regression, XGBoost, Random Forest, PCA, NLP, Transformers, LLMs, Multimodal Deep Learning |
+| Statistical Modeling | A/B testing, Hypothesis testing, Econometrics & Time Series Analysis |
 | Data Engineering | Hadoop/Hive, Spark, Kafka, Airflow, dbt, AWS, Databricks |
 | Business Intelligence | Tableau, Advanced Excel, PowerBI, Kibana |
 | Certifications 🏅 | [AWS Academy Data Engineering](https://www.credly.com/badges/26766545-4cd1-4fda-bde4-607b7aa544db/public_url), [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/c15a5aca440557753c6c182aedea160a41665ac2d2be95a3414e55af6cc3aa12), [Apache Airflow Essentials](https://www.linkedin.com/learning/certificates/2efbe723e8753e52fd7c15b5c86ae7f26365be0c67e6016c9327302cfc171185) |
