@@ -11,7 +11,7 @@ I'm a passionate Data Scientist and Analytics Engineer, currently pursuing an MS
 
 I love solving problems, so if you need help with a business/tech issue, please feel free to reach out to me directly at parthshah197@gmail.com!
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparthshah197%2Fparthshah197&count_bg=%2379C83D&title_bg=%23292929&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## My Toolbox 🧰
 
@@ -30,9 +30,3 @@ I love solving problems, so if you need help with a business/tech issue, please 
 📧 Email: parthshah197@gmail.com
 💼 LinkedIn: [Parth Shah](https://www.linkedin.com/in/parthshah1997/)
 📋 [Resume](https://drive.google.com/file/d/1AInBz7SbUBeulVd4FxTkgozzTjrmHnbd/view)
-
-
-![Static Badge](https://img.shields.io/badge/Unique-blue)
-[![UniqueHitCount](https://hits.dwyl.com/parthshah197/parthshah197.svg?style=flat-square&show=unique)](http://hits.dwyl.com/parthshah197/parthshah197)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparthshah197%2Fparthshah197&count_bg=%2379C83D&title_bg=%23292929&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
