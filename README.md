@@ -2,7 +2,7 @@
 
 I'm a passionate Data Scientist and Analytics Engineer, currently pursuing an MS in Business Analytics & Artificial Intelligence (Data Science & Engineering track) at The University of Texas at Dallas. My mission is to leverage data to address complex challenges and drive business growth.
 
-**4.5 yoe Product Analytics & Experimentation @ Media.net (Ad-Tech)**:
+**4.5 years of experience in Product Analytics & Experimentation @ Media.net (Ad-Tech)**:
 - Led improvements for Ad-Exchange and Programmatic Products (Header Bidding, Prebid, Open Bidding) at Media.net
 - Designed and executed A/B tests to optimize product performance
 - Developed statistical models to maximize key metrics including profit margin, revenue rate and win rate
