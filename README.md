@@ -11,7 +11,7 @@ I'm a passionate Data Scientist and Analytics Engineer, currently pursuing an MS
 
 I love solving problems, so if you need help with a business/tech issue, please feel free to reach out to me directly at parthshah197@gmail.com!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparthshah197%2Fparthshah197&count_bg=%2379C83D&title_bg=%23292929&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!---[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparthshah197%2Fparthshah197&count_bg=%2379C83D&title_bg=%23292929&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=parthshah1997&label=Total%20Views&color=5&icon=0&pretty=false"/>
